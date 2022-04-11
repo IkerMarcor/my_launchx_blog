@@ -9,11 +9,11 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para esta mision son:
 
--Aprender Git y GitHub
--Aprender mas JavaScript 
--Confiar en mis habilidades
--Ser Full Stack developer
--Aprender a aprender
--Muchas otras cosas más :)
+- Aprender Git y GitHub
+- Aprender mas JavaScript 
+- Confiar en mis habilidades
+- Ser Full Stack developer
+- Aprender a aprender
+- Muchas otras cosas más :)
 
 🚀
